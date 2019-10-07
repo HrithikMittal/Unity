@@ -2,7 +2,7 @@
 ## Steps to be followed
 1. Create New Project.
 2. Name of the Project Sample AR(leave settting as it is).
-3. Click on File -> build settings -> Player Settings -> Vuforia Augmented Reality (If not there, download and install, close current project, follow above steps again)
+3. Click Assets -> Import Package -> Custom Package -> Vuforia file (.unity extension)
 4. Click on Gameobject -> Vuforia -> ARCamera
 5. In Scene hierarchy, delete Main Camera
 6. Click on Gameobject -> Vuforia -> Image
